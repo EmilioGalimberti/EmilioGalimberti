@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emiliogalimber2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emiliogalimber2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emilio galimberti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilio galimberti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emilio-galimberti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilio galimberti" height="30" width="40" /></a>
 <a href="https://instagram.com/emiliogalimberti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiliogalimberti" height="30" width="40" /></a>
-<a href="https://discord.gg/LITO#0286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LITO#0286" height="30" width="40" /></a>
+<a href="https://discord.gg/#0286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LITO#0286" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
