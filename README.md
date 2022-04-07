@@ -3,10 +3,6 @@
 
 
 
-
-
-- 💻 I’m currently working on IncluIT [https://incluit.com](https://incluit.com)
-
 - 🌱 I’m currently learning **Angular!**
 
 <h3 align="left">Connect with me:</h3>
