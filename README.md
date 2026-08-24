@@ -3,13 +3,14 @@
 <!--  Brand: @bygalimberti | Estética: Terminal Moderna (CLI Blue)     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<div align="left">
+<div align="center">
 
-<a href="https://github.com/emiliogalimberti">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=0096FF&background=0D111700&vCenter=true&width=550&lines=emilio%40bygalimberti%3A~%24+whoami;System+Engineer+%26+AI+Builder;>+aprendo+en+público%2C+construyo+en+serio_" alt="Typing SVG" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/>
+  <img src="assets/header.svg" width="100%" alt="Emilio Galimberti — System Engineer & AI Builder"/>
+</picture>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/emilio-galimberti" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=0096FF" alt="LinkedIn"/></a>
   <a href="https://instagram.com/bygalimberti" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=flat-square&logo=instagram&logoColor=0096FF" alt="Instagram"/></a>
   <a href="https://youtube.com/@bygalimberti" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=flat-square&logo=youtube&logoColor=0096FF" alt="YouTube"/></a>
