@@ -39,19 +39,6 @@
   ]
 }
 ```
-
----
-
-### `02 — stack`
-
-```bash
-emilio@bygalimberti:~$ tree ~/tech-stack --level=1
-```
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,python,bash,git,github,docker,linux,html,css,ps&perline=7&theme=dark" alt="Tech Stack" />
-</p>
-
 ---
 
 ### `03 — ecosystem`
@@ -88,21 +75,13 @@ emilio@bygalimberti:~$ fetch --system-metrics --activity
 
 ---
 
-### `05 — system-status`
-
-```text
-    ╔═════════════╗
-    ║  ╔═══════╗  ║
-    ║  ║ ◉   ◉ ║  ║   > BMO: "aprendo en público, construyo en serio_"
-    ║  ║   ‿   ║  ║   > status: [■ ONLINE]
-    ║  ║_______║  ║
-    ║  ╚═══════╝  ║
-    ║  ○   ●   ○  ║
-    ╚══╧═══════╧══╝
-       ▌       ▐
-```
+### `02 — stack`
 
 ```bash
-emilio@bygalimberti:~$ echo "from zero to deployed_" && exit 0
+emilio@bygalimberti:~$ tree ~/tech-stack --level=1
 ```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,python,bash,git,github,docker,linux,html,css,ps&perline=7&theme=dark" alt="Tech Stack" />
+</p>
 
