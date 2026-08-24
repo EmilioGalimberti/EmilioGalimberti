@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  SYSTEM ENGINEER & AI BUILDER — PROFILE README                    -->
+<!--  SYSTEM ENGINEER STUDENT & AI BUILDER — PROFILE README            -->
 <!--  Brand: @bygalimberti | Estética: Terminal Moderna (CLI Blue)     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/>
-  <img src="assets/header.svg" width="100%" alt="Emilio Galimberti — System Engineer & AI Builder"/>
+  <img src="assets/header.svg" width="100%" alt="Emilio Galimberti — System Engineer Student & AI Builder"/>
 </picture>
 
 <p align="center">
@@ -32,14 +32,15 @@
 {
   "name": "Emilio Andres Galimberti",
   "alias": "bygalimberti",
-  "role": "System Engineer & AI Builder",
+  "role": "System Engineer Student & AI Builder",
   "education": "Ingeniería en Sistemas de Información (4to año — UTN)",
   "location": "Argentina 📍",
   "tagline": "aprendo en público, construyo en serio_",
   "core_focus": [
-    "Desarrollo Full Stack (TypeScript, Angular, Node.js)",
-    "Automatización & Agentes de Inteligencia Artificial",
-    "Infraestructura, Servidores & Homelab"
+    "Web Development (JavaScript, Bun, Hono, Node.js)",
+    "AI Agents & Intelligent Automation",
+    "Cybersecurity & Application Security",
+    "Infrastructure, Cloud & Homelab"
   ],
   "available_for": ["freelance", "consulting", "full-time"]
 }
@@ -52,13 +53,11 @@
   <img src="assets/s02.svg" width="100%" alt="Section 02 — PORTFOLIO"/>
 </picture>
 
-```bash
-emilio@bygalimberti:~$ open https://bygalimberti.com
-```
-
-<a href="https://bygalimberti.com" target="_blank">
-  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-bygalimberti.com-0096FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Visit Portfolio"/>
-</a>
+<p align="center">
+  <a href="https://bygalimberti.com" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_EXPLORE_PORTFOLIO-bygalimberti.com-0096FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Visit Portfolio" height="40"/>
+  </a>
+</p>
 
 <!-- ─── 03 — BUILDING ────────────────────────────────────────────── -->
 
@@ -67,16 +66,13 @@ emilio@bygalimberti:~$ open https://bygalimberti.com
   <img src="assets/s03.svg" width="100%" alt="Section 03 — BUILDING"/>
 </picture>
 
-```bash
-emilio@bygalimberti:~$ ps aux --current-projects
-```
-
 <table>
   <tr>
     <td width="80" align="center">🚀</td>
     <td>
-      <strong>fid.bad — Landing Page</strong><br/>
-      <sub>Diseño y desarrollo de la landing page para fid.bad.</sub><br/><br/>
+      <a href="https://fidbac.emiliogalimberty.workers.dev/#areas" target="_blank"><strong>fidbac — Landing Page</strong></a> &nbsp;
+      <a href="https://fidbac.emiliogalimberty.workers.dev/#areas" target="_blank"><img src="https://img.shields.io/badge/LIVE_DEMO-00E676?style=flat-square&logo=googlechrome&logoColor=0D1117" alt="Live Demo"/></a><br/>
+      <sub>Diseño y desarrollo de la landing page para fidbac.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono"/>
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript"/>
@@ -122,7 +118,7 @@ emilio@bygalimberti:~$ tree ~/tech-stack --level=1
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,python,bash,git,github,docker,linux,html,css,ps&perline=7&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,bun,nodejs,cloudflare,python,bash,linux,git,github,html,css&perline=6&theme=dark" alt="Tech Stack" />
 </p>
 
 <!-- ─── FOOTER ───────────────────────────────────────────────────── -->
