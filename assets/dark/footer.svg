@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer — bygalimberti">
+  <style>
+    :root { --rule: #30363D; --muted: #8B949E; --accent: #0096FF; --ghost: #161B22; --bone: #F0F6FC; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", "JetBrains Mono", monospace; }
+    .draw { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: d 1.4s cubic-bezier(.6,0,.2,1) .2s forwards; }
+    @keyframes d { to { stroke-dashoffset: 0; } }
+    .f { opacity: 0; animation: f .8s ease .4s forwards; }
+    @keyframes f { to { opacity: 1; } }
+    .pulse { animation: p 3s ease-in-out infinite; }
+    @keyframes p { 0%,100%{opacity:1} 50%{opacity:0.5} }
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.f,.pulse { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; } .pulse { opacity: 1; }
+    }
+  </style>
+
+  <line class="draw" x1="48" y1="20" x2="952" y2="20"/>
+
+  <g class="f">
+    <text class="mono" fill="var(--muted)" x="48" y="58" font-size="11" letter-spacing="3">BUILT WITH CURIOSITY &amp; CAFFEINE</text>
+    <text class="mono" fill="var(--accent)" x="500" y="58" font-size="11" letter-spacing="3" text-anchor="middle">·</text>
+    <text class="mono" fill="var(--muted)" x="952" y="58" font-size="11" letter-spacing="3" text-anchor="end">© 2026 BYGALIMBERTI</text>
+  </g>
+
+  <g class="f">
+    <text class="mono pulse" fill="var(--accent)" x="48" y="90" font-size="12" letter-spacing="1">&gt; open to engineering challenges · consulting · ai architecture</text>
+    <text class="mono" fill="var(--muted)" x="952" y="90" font-size="11" letter-spacing="2" text-anchor="end">emilio@bygalimberti.com</text>
+  </g>
+
+  <line class="draw" x1="48" y1="108" x2="952" y2="108"/>
+</svg>
